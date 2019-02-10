@@ -4,7 +4,11 @@
 
 ### You should know what functionality you support.
 1. What is its name?
-2. Who has access to it? Who uses it? 
+2. Who are its users?
+   - Who has access to it?
+   - Who uses it?
+   - What times of day do they use it? 
+   - What days of the week do they use it? 
 3. Who else supports it?
 4. Can you log in to it? 
 5. Can you use it like your users use it? 
